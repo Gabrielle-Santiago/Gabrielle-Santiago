@@ -5,7 +5,8 @@ Estou no último ano da faculdade de Análise e Desenvolvimento de Sistemas e, a
 
 ## 📬 Contatos 
 📩 **Email:** [gabriellesantisilva@gmail.com](mailto:gabriellesantisilva@gmail.com)  
-💼 **LinkedIn:** www.linkedin.com/in/gabrielle-santiago-silva  
+💼 **LinkedIn:** www.linkedin.com/in/gabrielle-santiago-silva <br>
+📁 **Portfólio:** https://portfolio-gabrielle-santiago.vercel.app/index.html
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -94,7 +95,4 @@ Estou no último ano da faculdade de Análise e Desenvolvimento de Sistemas e, a
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Santiago&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielle-Santiago&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
